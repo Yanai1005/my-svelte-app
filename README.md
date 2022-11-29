@@ -78,3 +78,7 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+
+https://aadojo.alterbooth.com/entry/2021/12/16/000000
+
+デプロイはできたけどそのあとができなかった。あといろいろダウンロードしてなかった。
